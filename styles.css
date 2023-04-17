@@ -1,0 +1,26 @@
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.food-list {
+    background-color:aquamarine;
+    color: blue;
+}
+
+.description {
+    background-color: gray;
+}
+
+.showcase {
+    display: block;
+    width: 800px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
